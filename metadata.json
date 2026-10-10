@@ -1,0 +1,8 @@
+{
+  "name": "Shahzaman",
+  "description": "Stream and explore top Pakistani new dramas, blockbuster movies, trailers, episode guides, and hit OST title songs on Shahzaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shahzaman.entertainment",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7F:0F:52:CE:EB:2B:AE:EF:E6:D2:CE:72:0E:54:EB:18:66:6A:AE:F5:F4:D6:75:48:8D:1A:E7:E8:22"
+      ]
+    }
+  }
+]
